@@ -1,14 +1,11 @@
-ipykernel
-
-
-
-requests
-folium
-lxml
-geojson
-gpxpy
-scikit-learn
-pandas
-geopandas
-matplotlib
-spacy >= 3.3.0
+ipykernel==6.16.0
+scikit-learn==1.1.2
+pandas==1.5.0
+matplotlib==3.6.0
+folium==0.12.1
+plotly==5.10.0
+geopandas==0.11.1
+seaborn==0.12.0
+statsmodels==0.13.2
+keras==2.10.0
+tensorflow==2.10.0
