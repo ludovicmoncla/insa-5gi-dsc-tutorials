@@ -9,7 +9,7 @@ This document explains how to install and set up a python environment with conda
 
 **Information** For those who have troubles installing a python environment on your computer you can simply download notebooks files (`.ipynb`) from this repository and run them remotely with [Google Colab](http://colab.research.google.com) (*Google account needed*).
 
-
+***
 
 ## 1. Install conda
 
