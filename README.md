@@ -50,11 +50,18 @@ git clone https://gitlab.insa-lyon.fr/lmoncla/gi-5-dsc.git
 conda config --add channels conda-forge
 ```
 
-* Create a new python environment called `dsc-5gi-py39` with all dependencies using the `environment.yml` configuration file :
+* Create a new python environment (on MacOS or Linux) called `dsc-5gi-py39` with all dependencies using the `environment.yml` configuration file :
 
 ```bash
-conda env create -f environment.yml
+conda env create -f environment-osx-linux.yml
 ```
+
+* or for windows users :
+
+```bash
+conda env create -f environment-win64.yml
+```
+
 
 * Activate the environment
 
@@ -79,7 +86,7 @@ conda activate dsc-5gi-py39
 * Install fiona package with `conda` (this prevent an issue while installing geopandas with `pip`)
 
 ```bash
-conda install fiona
+conda install fiona=1.8.21
 ```
 
 * Install dependencies with `pip`
