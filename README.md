@@ -50,13 +50,13 @@ git clone https://gitlab.insa-lyon.fr/lmoncla/gi-5-dsc.git
 conda config --add channels conda-forge
 ```
 
-* Create a new python environment (on MacOS or Linux) called `dsc-5gi-py39` with all dependencies using the `environment.yml` configuration file :
+* Create a new python environment (on MacOS or Linux) called `dsc-5gi-py39` with all dependencies using the `environment-osx-linux.yml` configuration file :
 
 ```bash
 conda env create -f environment-osx-linux.yml
 ```
 
-* or for windows users :
+* or for windows users using the `environment-win64.yml` :
 
 ```bash
 conda env create -f environment-win64.yml
