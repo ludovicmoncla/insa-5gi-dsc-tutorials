@@ -29,7 +29,7 @@ There are several ways to install conda on your computer:
 * Clone this github repository
 
 ```bash
-git clone https://github.com/ludovicmoncla/gi-5-dsc.git
+git clone https://github.com/ludovicmoncla/insa-5gi-dsc-tutorials.git
 ```
 
 #### 2.1.2 Method 2
