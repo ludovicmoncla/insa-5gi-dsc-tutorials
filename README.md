@@ -35,7 +35,9 @@ git clone https://github.com/ludovicmoncla/insa-5gi-dsc-tutorials.git
 #### 2.1.2 Method 2
 
 * Download and save the following files in one of your folder :
-    - requirements.txt 
+    - [https://github.com/ludovicmoncla/insa-5gi-dsc-tutorials/blob/main/requirements.txt](requirements.txt)
+    - [https://github.com/ludovicmoncla/insa-5gi-dsc-tutorials/blob/main/notebook.01-data-exploration.ipynb](notebook.01-data-exploration.ipynb)
+
 
 
 ### 2.2 Configure the environment with all dependencies
