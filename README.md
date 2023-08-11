@@ -35,41 +35,11 @@ git clone https://github.com/ludovicmoncla/insa-5gi-dsc-tutorials.git
 #### 2.1.2 Method 2
 
 * Download and save the following files in one of your folder :
-    - environment.yml (if you configure your python environment with Conda)
-    - requirements.txt (if you configure your python environment with Pip)
+    - requirements.txt 
 
 
 ### 2.2 Configure the environment with all dependencies
 
-#### 2.2.1 Method 1
-
-
-* Add a new channel `conda-forge` to the conda config:
-
-```bash
-conda config --add channels conda-forge
-```
-
-* Create a new python environment (on MacOS or Linux) called `dsc-5gi-py39` with all dependencies using the `environment-osx-linux.yml` configuration file :
-
-```bash
-conda env create -f environment-osx-linux.yml
-```
-
-* or for windows users using the `environment-win64.yml` :
-
-```bash
-conda env create -f environment-win64.yml
-```
-
-
-* Activate the environment
-
-```bash
-conda activate dsc-5gi-py39
-```
-
-#### 2.2.2 Method 2
 
 * Create a new environment called `dsc-5gi-py39`
 
