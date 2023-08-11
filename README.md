@@ -35,8 +35,13 @@ git clone https://github.com/ludovicmoncla/insa-5gi-dsc-tutorials.git
 #### 2.1.2 Method 2
 
 * Download and save the following files in one of your folder :
-    - [https://github.com/ludovicmoncla/insa-5gi-dsc-tutorials/blob/main/requirements.txt](requirements.txt)
-    - [https://github.com/ludovicmoncla/insa-5gi-dsc-tutorials/blob/main/notebook.01-data-exploration.ipynb](notebook.01-data-exploration.ipynb)
+    - [requirements.txt](requirements.txt)
+    - [notebook.01-data-exploration.ipynb](notebook.01-data-exploration.ipynb)
+    - [notebook.02-data-analysis.ipynb](notebook.02-data-analysis.ipynb)
+    - [notebook.03-clustering.ipynb](notebook.03-clustering.ipynb)
+    - [notebook.04-regression.ipynb](notebook.04-regression.ipynb)
+    - [notebook.05-decision-trees.ipynb](notebook.05-decision-trees.ipynb)
+    - [notebook.06-sales-prediction.ipynb](notebook.06-sales-prediction.ipynb)
 
 
 
