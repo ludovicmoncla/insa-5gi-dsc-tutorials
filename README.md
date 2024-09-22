@@ -48,22 +48,22 @@ git clone https://github.com/ludovicmoncla/insa-5gi-dsc-tutorials.git
 ### 2.2 Configure the environment with all dependencies
 
 
-* Create a new environment called `dsc-5gi-py39`
+* Create a new environment called `dsc-5gi-py310`
 
 ```bash
-conda create -n dsc-5gi-py39 python=3.9
+conda create -n dsc-5gi-py310 python=3.10
 ```
 
 * Activate the environment
 
 ```bash
-conda activate dsc-5gi-py39
+conda activate dsc-5gi-py310
 ```
 
 * Install fiona package with `conda` (this prevent an issue while installing geopandas with `pip`)
 
 ```bash
-conda install fiona=1.8.21
+conda install fiona=1.10.1
 ```
 
 * Install dependencies with `pip`
