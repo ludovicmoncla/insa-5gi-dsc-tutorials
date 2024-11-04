@@ -1,4 +1,4 @@
-![INSA](https://gi.insa-lyon.fr/sites/all/themes/insa_satellites/logo.png)
+![INSA](https://www.insa-lyon.fr/sites/all/themes/insa/logo.png)
 
 # GI-5-DSC - Data Science
 ***
