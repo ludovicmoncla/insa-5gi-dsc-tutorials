@@ -3,7 +3,13 @@
 # GI-5-DSC - Data Science
 ***
 
-This git repository contains the tutorial files for the [Data Science](https://moodle.insa-lyon.fr/course/view.php?id=4628) course of 5GI INSA Lyon.
+This git repository contains the tutorial files for the [Data Science](https://moodle.insa-lyon.fr/course/view.php?id=4628) course of 5GI INSA Lyon: 
+
+1. Notebook 1: [Data exploration](notebook.01-data-exploration.ipynb) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ludovicmoncla/insa-5gi-dsc-tutorials/blob/main/notebook.01-data-exploration.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ludovicmoncla/insa-5gi-dsc-tutorials/master?filepath=notebook.01-data-exploration.ipynb)
+2. Notebook 2: [Data analysis](notebook.02-data-analysis.ipynb) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ludovicmoncla/insa-5gi-dsc-tutorials/blob/main/notebook.02-data-analysis.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ludovicmoncla/insa-5gi-dsc-tutorials/master?filepath=notebook.02-data-analysis.ipynb)
+3. Notebook 3: [Regression](notebook.03-regression.ipynb) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ludovicmoncla/insa-5gi-dsc-tutorials/blob/main/notebook.03-regression.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ludovicmoncla/insa-5gi-dsc-tutorials/master?filepath=notebook.03-regression.ipynb)
+4. Notebook 4: [Sales prediction](notebook.04-sales-prediction.ipynb) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ludovicmoncla/insa-5gi-dsc-tutorials/blob/main/notebook.04-sales-prediction.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ludovicmoncla/insa-5gi-dsc-tutorials/master?filepath=notebook.04-sales-prediction.ipynb)
+
 
 This document explains how to install and set up a python environment with conda and install all the required libraries.
 
@@ -18,7 +24,7 @@ We will use it for managing the python environment and all the python libraries 
 There are several ways to install conda on your computer:
 1. [Anaconda distribution](https://www.anaconda.com/products/distribution): provides GUI applications, a lot of data science and machine learning package already installed
 2. [Miniconda](https://docs.conda.io/en/latest/miniconda.html): a minimal installer for conda, no GUI application
-3. [Miniforge](https://github.com/conda-forge/miniforge): another minimal installer for conda, no GUI application (recommended for the Mac M1 or M2 chips (Apple Silicon))
+3. [Miniforge](https://github.com/conda-forge/miniforge): another minimal installer for conda, no GUI application (recommended for the Macbook M chips (Apple Silicon))
 
 ## 2. Set up a conda environment
 
